@@ -1,2 +1,2 @@
-# Survival_Status_Of_Passengers_On_RSM_Titanic_Ship
-These Project Analyses Factors that Influenced Survival rate of passengers on the RSM Titanic Ship using Excel, Pivot Tables and Dashboard.
+# SURVIVAL_STATUS_OF_PASSENGERS_ON_RSM_TITANIC_SHIP
+These Project Analyses Factors That Influenced Survival Rate Of Passengers On The RSM Titanic Ship.

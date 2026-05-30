@@ -32,7 +32,7 @@ data summarization,story-telling and a clearer insight on the survivors.
 - Dashboard Design Technique
 
 ---
-![SURVIVAL_STATUS_OF_PASSENGERS_ON_RSM_TITANIC_SHIP](Titanic_Dashboard_Screenshot)
+![SURVIVAL_STATUS_OF_PASSENGERS_ON_RSM_TITANIC_SHIP](Titanic_Dashboard_Screenshot.png)
 
 ---
 ## Key Insights
@@ -44,4 +44,14 @@ data summarization,story-telling and a clearer insight on the survivors.
 
 ---
 ## Files in This Repository
-- 
+- [README.md](README.md)
+- [TITANIC DATASET](Titanic_Dashboard.xlsx)
+- [Titanic Dashboard Screenshot](Titanic_Dashboard_Screenshot.png)
+
+---
+## Conclusion
+From our analyses using Microsoft Excel, we can conclude that passengers survival was
+hugely dictated by factors such as socio-economic status, age, and gender.
+Women, children and first class passengers had the highest survival status. Which means
+a strict "women and children first" protocol and systemic class biases during the accident 
+was adopted in saving passengers.

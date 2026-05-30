@@ -1,4 +1,4 @@
-# SURVIVAL STATUS OFPASSENGERS ON RSM TITANIC SHIP - MICROSOFT EXCEL 
+# SURVIVAL STATUS OF PASSENGERS ON RSM TITANIC SHIP - MICROSOFT EXCEL DASHBOARD
 
 ## Project Overview
 This project is aimed at determining the number of passengers that survived in the RSM
